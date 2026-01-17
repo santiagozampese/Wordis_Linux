@@ -1,0 +1,13 @@
+{
+    "lugares":["Manaus", "Recife", "Salvador", "Aracaju", "Maceió", "Belém", "Goiânia",
+                "Palmas", "Cuiabá", "Macapá", "Búzios", "Paraty", "Petrópolis", "Ilhabela", "Jericoacoara", "Bonito",
+                "Canela", "Amazonas", "Pará", "Ceará", "Pernambuco", "Tocantins", "Iguaçu", "Brasília", "Santos", "Sergipe"],
+    "doces":["Brigadeiro", "Beijinho", "Cajuzinho", "Quindim", "Pudim", "Paçoca", "Cocada", "Rapadura", "Goiabada",
+            "Canjica", "Manjar", "Pamonha", "Curau", "Ambrosia", "Açaí"],
+    "famosos brasileiros":["Pelé", "Ronaldinho", "Romário", "Neymar", "Zico", "Garrincha", "Kaká", "Sócrates",
+                            "Xuxa", "Tiradentes", "Faustão"],
+    "personagens":["Chaves", "Kiko", "Chiquinha", "Bolinha", "Emília", "Saci", "Curupira", "Cuca", "Boitatá", "Lobisomem", "Mônica",
+                    "Cebolinha", "Magali", "Cascão", "Horácio", "Piteco", "Franjinha", "Penadinho"],
+    "comidas":["Feijoada", "Acarajé", "Cuscuz", "Churrasco", "Coxinha", "Pastel", "Quibe", "Tapioca", "Empada",
+                "Polenta", "Linguiça", "Lasanha", "Esfirra", "Canja", "Picanha", "Torresmo"]
+}
