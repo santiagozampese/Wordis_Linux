@@ -1,8 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Name=Wordis
-Type=Application
-Terminal=true
-Exec=/home/zampese/VSCode/Python/Wordis_Linux/system/Wordis_linux
-Icon=/home/zampese/VSCode/Python/Wordis_Linux/system/WordisIco.ico
-Categories=Games
