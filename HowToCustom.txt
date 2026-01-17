@@ -1,0 +1,56 @@
+Regras para realizar a modificação:
+
+Sintaxe correta:
+{
+    "Active":"Modo",    
+    "Categories":{
+            "Categoria1":["palavra1", "palavra2", "palavra3"],
+            "Categoria2:["palavra1", "palavra2", "palavra3"]
+    }
+}
+
+Palavras:
+
+    Sem Espaços ou Hífens
+    Acentos e Maiúsculas não alterão o Jogo
+    
+Para Modificar o arquivo de customização "words_custom.json" siga as instruções:
+
+    1: Mude o "False" depois do "Activate" para "True" (Não use aspas simples)
+  
+  2: Dentro de "Categories" adicione categorias desejadas com a sintaxe correta (Se não for usar as categorias padrões "Games" e "Tv Shows" Por favor apague elas)
+
+    3: Na categoria Padrão ou criada, adicione as palavras seguindo as regras e sintaxe
+
+    4: Salve o arquivo e inicie o atalho
+
+Rules for making the modification:
+
+Correct syntax:
+
+{
+    "Active":"Mode", 
+    "Categories":{
+
+            "Category1":["word1", "word2", "word3"],
+
+            "Category2:["word1", "word2", "word3"]
+    }
+}
+
+Words:
+
+    No spaces or hyphens
+    Accents and capital letters will not affect the game
+
+To modify the customization file "words_custom.json" follow these instructions:
+
+    1: Change "False" after "Activate" to "True" (Do not use single quotes)
+
+    2: Inside "Categories" add the desired categories with the correct syntax (If you are not using the default categories "Games" and "TV Shows", please delete them)
+
+    3: In the default or created category, add the words following the rules and Syntax
+
+    4: Save the file and start the shortcut
+
+
